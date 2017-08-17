@@ -192,6 +192,44 @@ Android Questions:
     What is the difference between Service and Thread? 
     What is a Content Provider? 
     What is the difference between a regular bitmap and a nine-patch image?
+    Difference between Activity and Fragment.
+    Where do you use fragments?
+    Describe fragment life cycle?
+    What life cycle methods are called on rotating or changing the orientation of the phone?
+    How do you prevent data loss on rotating or changing the orientation of the phone?
+    What is the relationship between the life cycle of an AsyncTask and an Activity? What problems can this result in? How can these problems be avoided?
+    What do you do for memory management in your app?
+    Explain RecyclerView.
+    Explain ViewPager.
+    Explain design patterns used in app- singleton, MVC, MVP etc.
+    Explain JSON parsing. Why is JSON parsing preferred over XML parsing?
+    Explain Network libraries used in project.
+    What is Service?Explain different types of service in Android.
+    What are BroadcastReceiver?
+    How do you check Network Connection in your App?
+    Explain SQLite and its usage in your app.
+    Difference between View.GONE and View.INVISIBLE?
+    New Features in Android
+    Explain material design in Android
+    Notifications and deeplinking in android.
+    Image Libraries used in app and how do they work.
+    Third party libraries used in app.
+    Explain the layouts and views in a given screen.    
+
+
+
+
+Core Java:
+
+    Expalin OOPS concepts.- Inheritance and Polymorphism
+    Explain Access Modifiers
+    Difference between Overloading and Overriding.
+    Explain HashMap and ArrayMap and where do you use it.
+    What is the difference between String, String Builder and string buffer.
+    Explain ArrayList
+
+
+
 
 
 Laravel Questions
