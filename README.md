@@ -199,18 +199,26 @@ Android Questions:
     What is the difference between a regular bitmap and a nine-patch image?
 
 
-
-PHP Quuestions
-
-
-
-
-
 Laravel Questions
 
+	What are the main differences between Laravel 4 and Laravel 5.x?
+	What is routing and how, and what are the different ways to write it?
+	What is Composer?
+	How to implement you own package in Laravel?
+	What is database migration? And how to use it to add insert initial data to database?
+	Explain Events in Laravel ?
+	Which template engine Laravel use ?
+	What are service providers in laravel ?
+	What does “composer dump-autoload” do?
+	What are Implicit Controllers ?
+	Explain Laravel service container ?
+	How can you get users IP address in Laravel ?
+	What are Laravel Facades ?
+	What is Method Spoofing in Laravel ?
 
 
 
+PHP Quuestions
 
 
 
