@@ -23,12 +23,6 @@ Table of Contents
     php Quuestions
     Laravel Questions
 
-Getting Involved
-
-    Contributors
-    How to Contribute
-    License
-
 General Questions:
 
     What did you learn yesterday/this week?
