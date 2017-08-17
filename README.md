@@ -18,6 +18,9 @@ Table of Contents
     Network Questions
     Coding Questions
     Fun Questions
+    Android Questions
+    php Quuestions
+    Laravel Questions
 
 Getting Involved
 
@@ -180,6 +183,36 @@ Network Questions:
         ETag
         X-Frame-Options
     What are HTTP actions? List all HTTP actions that you know, and explain them.
+
+
+Android Questions:
+
+    Describe Android Application Architecture.
+    What are the different phases of the Activity life cycle? 
+    What is an Explicit Intent?
+    What is an AndroidManifest file?
+    What is the significance of the .dex files?
+    What does ADT stand for?
+    What are the different tools in Android? Explain them?
+    What is the difference between Service and Thread? 
+    What is a Content Provider? 
+    What is the difference between a regular bitmap and a nine-patch image?
+
+
+
+PHP Quuestions
+
+
+
+
+
+Laravel Questions
+
+
+
+
+
+
 
 Coding Questions:
 
